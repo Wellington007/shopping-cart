@@ -1,0 +1,19 @@
+#formulario{
+    float: left;
+    padding: 20px
+    border: 1 px solid #999999
+}
+#formulario{
+    float: left
+    width: 400px
+    margin-left: 20px
+    padding: 20px
+    border: 1px solid #999999
+}
+#Name, #text{
+    width: 20px;
+}
+#formulario > div{
+    padding: 5px;
+    border-bottom: 1px solid #999999
+}
